@@ -1,0 +1,58 @@
+{
+  "@@locale": "en",
+  "appTitle": "Offline Cards",
+  "addDeck": "Add Deck",
+  "editDeck": "Edit Deck",
+  "deleteDeck": "Delete Deck",
+  "deleteDeckConfirm": "Delete this deck?",
+  "cancel": "Cancel",
+  "ok": "OK",
+  "deckNameLabel": "Deck name",
+  "save": "Save",
+  "deckDueSummary": "Due: {due} / Total: {total}",
+  "deckDueSummary@due": {
+    "description": "Number of cards due today"
+  },
+  "deckDueSummary@total": {
+    "description": "Total number of cards in deck"
+  },
+  "startStudy": "Start",
+  "cardsTitle": "Cards",
+  "searchHint": "Search cards",
+  "addCard": "Add Card",
+  "editCard": "Edit Card",
+  "deleteCard": "Delete Card",
+  "deleteCardConfirm": "Delete this card?",
+  "frontLabel": "Front",
+  "backLabel": "Back",
+  "tagsLabel": "Tags (comma separated)",
+  "showAnswer": "Show Answer",
+  "correct": "Correct",
+  "incorrect": "Incorrect",
+  "noCardsDue": "No cards to review today.",
+  "studyComplete": "Great work! All done.",
+  "remainingCount": "Remaining: {count}",
+  "remainingCount@count": {
+    "description": "Number of cards remaining"
+  },
+  "settingsTitle": "Settings",
+  "importSeed": "Import default deck",
+  "importSeedDescription": "Only visible when the database is empty.",
+  "versionLabel": "Version {version}",
+  "versionLabel@version": {
+    "description": "Application version number"
+  },
+  "deckSaved": "Deck saved.",
+  "deckDeleted": "Deck deleted.",
+  "cardSaved": "Card saved.",
+  "cardDeleted": "Card deleted.",
+  "importSuccess": "Imported default deck.",
+  "importFailure": "Failed to import default deck.",
+  "emptyDeck": "This deck has no cards yet.",
+  "studyHeader": "Cards left: {count}",
+  "studyHeader@count": {
+    "description": "Number of cards remaining in study session"
+  },
+  "settingsNote": "Data never leaves this device.",
+  "studyToday": "Study"
+}

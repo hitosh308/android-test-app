@@ -1,0 +1,12 @@
+{
+  "decks": [
+    {
+      "id": "11111111-1111-1111-1111-111111111111",
+      "name": "Basic",
+      "cards": [
+        {"front": "apple", "back": "りんご", "tags": ["fruit"]},
+        {"front": "book", "back": "本", "tags": []}
+      ]
+    }
+  ]
+}
